@@ -10,6 +10,8 @@ public class FirstClass {
     }
 
     public static void print() {
+
         System.out.println("调用print");
+        System.out.println("调用print_clone");
     }
 }
